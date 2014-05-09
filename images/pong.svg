@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="640"
+   height="480"
+   id="svg2">
+  <title
+     id="title3676">Pong Interface</title>
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3652">
+      <stop
+         id="stop3654"
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="0" />
+      <stop
+         id="stop3656"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="812.04675"
+       y1="117.21162"
+       x2="838.43237"
+       y2="118.56694"
+       id="linearGradient3658"
+       xlink:href="#linearGradient3652"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <rect
+     width="667.14288"
+     height="505.71429"
+     x="-11.428572"
+     y="-11.428572"
+     id="rect2849"
+     style="fill:#000000;fill-opacity:1;stroke:none" />
+  <g
+     transform="translate(0,-572.36218)"
+     id="layer1">
+    <rect
+       width="52.794563"
+       height="22.045641"
+       x="785.63782"
+       y="107.54412"
+       transform="matrix(0.74247426,0.66987459,-0.68247298,0.73091082,0,0)"
+       id="rect3620-7"
+       style="fill:url(#linearGradient3658);fill-opacity:1;stroke:none" />
+    <path
+       d="m 320,580.63774 0,467.49996"
+       id="path2818"
+       style="color:#000000;fill:none;stroke:#ffffff;stroke-width:8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:16, 16;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 20.178571,781.33172 0,100"
+       id="path3592"
+       style="color:#000000;fill:none;stroke:#ffffff;stroke-width:8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <path
+       d="m 620.17857,619.50503 0,100"
+       id="path3592-1"
+       style="color:#000000;fill:none;stroke:#ffffff;stroke-width:8;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       width="16"
+       height="16"
+       x="533.3606"
+       y="640.21997"
+       id="rect3620"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <rect
+       width="66.428574"
+       height="107.48369"
+       x="222.5"
+       y="590.94995"
+       id="rect3660"
+       style="fill:none;stroke:#ffffff;stroke-width:12;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       d="m 351.42857,18.57143 52.14286,0 0,53.32694 -51.42857,0 0,54.17306 51.42857,0"
+       transform="translate(0,572.36218)"
+       id="path3666"
+       style="color:#000000;fill:none;stroke:#ffffff;stroke-width:12;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:3;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  </g>
+</svg>
